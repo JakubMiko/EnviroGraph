@@ -24,7 +24,19 @@ The app is designed for quick assessment and presentation of water quality data.
 
 ---
 
-## 3. How to install and run locally
+## 4. Screenshots
+
+### Landing Page
+![Landing page](backend/app/assets/images/preview1.png)
+
+### Series List
+![Series List](backend/app/assets/images/preview2.png)
+
+### Example of a measurement series
+![Example of a measurement series](backend/app/assets/images/preview3.png)
+
+
+## 4. How to install and run locally
 
 ### 1. Clone the repository
 
@@ -91,7 +103,9 @@ REACT_APP_API_URL=https://your-backend-service.onrender.com
 
 ---
 
-## 4. Try the hosted application
+## 5. Try the hosted application
+
+[**Temporarily unavailable - I am moving hosting from DO to OVH**]
 
 You can try the app live here:
 [https://envirograph-1.onrender.com/](https://envirograph-1.onrender.com/)
